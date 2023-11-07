@@ -3,9 +3,9 @@ Colormatics
 A Color Info Website (Student Project)
 Creator — Indrani Thool (All Rights Reserved) 2023
 
-Colormatics is derived from words 'Color' and 'Information'. The ideology behind Colormatics is spreading awareness about color. With Colormatics you can explore the concepts of color associated with scienceand technology 'The visible spectrum' as well as color and it's association with culture and emotions 'Color psychology'. Additionally, you can explore color and understand your pet's vision 'Through your pet's eyes'. 
+Colormatics is derived from words 'Color' and 'Information'. The ideology behind Colormatics is spreading awareness about color. With Colormatics you can explore the concepts of color associated with science and technology 'The visible spectrum' as well as color and it's association with culture and emotions 'Color psychology'. Additionally, you can explore color and understand your pet's vision 'Through your pet's eyes'. 
 
-I have worked on incorporating light and dark theme for this website because I want users to understand color sensititvity. Color hues appear darker with the dark theme whereas the same hues appear in brighter tint with a light themed background. Thoughout the website I have added 'Notes' to emphasize information and bust myths.
+I have worked on incorporating light and dark theme for this website because I want users to understand color sensitivity. Color hues appear darker with the dark theme whereas the same hues appear in brighter tint with a light themed background. Thoughout the website I have added 'Notes' to emphasize information and bust myths.
 
 The pages are composed from multiple articles and images are sourced from the internet.
 List of articles:

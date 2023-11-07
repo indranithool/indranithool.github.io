@@ -1,4 +1,5 @@
 const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
+// waive validator error
 const currentTheme = localStorage.getItem('theme');
 
 if (currentTheme) {
