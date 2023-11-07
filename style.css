@@ -158,9 +158,13 @@ figure {
 .img {
     padding-left: 20px;
 }
-.content {
-    display: flexbox;
+.image {
+    width: 100%;
+    height: auto;
 }
+/* .content {
+    display: flex;
+} */
 .Note {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgb(239, 170, 170);
